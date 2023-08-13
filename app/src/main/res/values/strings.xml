@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Nav example</string>
+    <string name="exercise_type_1">Yoga</string>
+    <string name="exercise_type_2">Cardio</string>
+    <string name="exercise_type_3">Strength</string>
+    <string name="exercise_type_4">Balance</string>
+    <string name="exercise_type_5">Flexibility</string>
 </resources>
